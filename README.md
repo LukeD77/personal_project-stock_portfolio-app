@@ -7,7 +7,7 @@ The current version is not complete with a couple new feature implemintations in
 Features
 - Plots of stock share prices over multiple time ranges
 - Plots of stock share prices within portfolio over time 
-- Professional recommendations for actions for specific stocks
+- Professional recommendations for actions for specific stocks (Breaks frequently due to yahoo-finance website and currently broken on app. Working on a solution.)
 - Access to information about the company behind the stock
 - Access to news articles relevant to the searched stock
 
