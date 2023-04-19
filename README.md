@@ -3,6 +3,11 @@ This app is designed to facilitate exploring investing. **It does not use real m
 
 The current version is not complete with a couple new feature implemintations in the works as well as smoothing out some bugs and creating better usability. Currently runs on my computer and can sell/buy shares, but there are still a few bugs leading to some inaccurate numbers. 
 
+If you would like to view my code, most is found in the files noted below:
+- stock_portfolio-GUI_v0.0.3-one_function_WIP.ipynb
+- Stock_portfolio_functions2.py
+- refreshing_portfolio_loading_gifs.py
+
 
 Features
 - Plots of stock share prices over multiple time ranges
@@ -15,6 +20,7 @@ Features
 Future features
 - Top 3 gaining and losing stocks for multiple time ranges
 - Plots of entire portfolio performance over time
+
 
 Below are screenshots for v0.0.3 (the current files in the repository). 
 ![image](https://user-images.githubusercontent.com/67921793/233180242-8c75d2b6-32eb-4ec4-b075-81289cd9451f.png)
