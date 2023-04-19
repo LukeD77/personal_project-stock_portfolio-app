@@ -1,0 +1,19 @@
+About the project -- V1.0
+
+
+This app was made as a side project to play around with the yfinance package and to teach myself to develop GUIs, in this case using PySimpleGUI. This app does NOT use real money and should only be used for recreational purposes. I have NOT studied investing or finance in any way other than taking out copious amounts of student loans. Obviously, no investment advice is provided by me, but I do hope you enjoy using this app to explore investing. I plan to update this app with bug-fixes or implementing new features.
+
+Notes:
+- Change over time in stocks is calculated from the opening of the day at the start of the time period to the closing of the same time period. This is different from other stock market software which use the closing of the previous day as the inital point, therefore taking into account the change between the close and open prices of the stock. This is to heavily simplify the code, but is something I am looking into rectifying in the future.
+
+There certainly may be issues with my code, or some numbers just don't add up. Please feel free to reach out to me with any questions, advice, or heaps of praise.
+
+My email is l.v.denoncourt@gmail.com
+My linkedin is https://www.linkedin.com/in/luke-denoncourt/
+
+
+yfinance is a python package that retrieves market data from Yahoo Finance. It is maintained by Ran Aroussi, whom I want to thank for their work. Links to the github and PyPi are below.
+https://github.com/ranaroussi/yfinance
+https://pypi.org/project/yfinance/
+
+Also, to the developers of PySimpleGUI, if you could create a way to display markdown-formatted text in a text box that would be amazing!

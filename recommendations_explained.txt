@@ -1,0 +1,62 @@
+Accumulate - When the price of a stock or other asset is rising, especially on rising volume, it is said to be under accumulation. This means that traders and investors are willing to buy the asset in mass. Once the asset starts to decline in value, this is called distribution.
+
+Buy – Buy some of the stock.
+
+Cautious – Unsure. Might be that this stock has some risks to it. 
+
+Equal-weight - An equity analyst believes the company's stock price will perform in line with or similar to the benchmark index being used for comparison.
+
+Fair Value - Fair value is the sale price agreed upon by a willing buyer and seller. The fair value of a stock is determined by the market where the stock is traded. Fair value also represents the value of a company's assets and liabilities when a subsidiary company's financial statements are consolidated with a parent company.
+
+In Line – Earnings that align with expectations. 
+
+Long-term Buy – A strategy that requires holding stocks for more than a year
+
+Market Outperform – Also known as "moderate buy," "accumulate," and "overweight." Outperform is an analyst recommendation meaning a stock is expected to do slightly better than the market return.
+
+Market Perform - A sell-side analysts' rating that indicates a neutral outlook for the shares of a company. Market perform is roughly equivalent to the "peer perform," "neutral," or "hold" recommendations that are issued by other equity analysts.
+
+Negative – Indicates the stock is underperforming the market.
+
+Neutral – Expect the stock to perform in line with the expected returns of the market.
+Hold - neither buy nor sell a security. A company with a hold recommendation generally is expected to perform with the market or at the same pace as comparable companies.
+
+Outperform - Also known as "moderate buy," "accumulate," and "overweight." Outperform is an analyst recommendation meaning a stock is expected to do slightly better than the market return.
+
+Overweight - An outsized investment in a particular asset, asset type, or sector within a portfolio. Overweight, rather than equal weight or underweight, also reflects an analyst's opinion that a particular stock will outperform its sector average over the next eight to 12 months.
+
+Peer Perform - An investment rating that sell-side analysts use when a given security provides returns consistent with those of other companies in its sector. A peer perform is a neutral assessment; it predicts a security will move in line with similar companies.
+
+Perform – A neutral assessment of a stock and is neither strongly positive nor negative. If, however, the stock has gone through a period of market underperformance, it is an indication that the stock is expected to improve its performance relative to market averages.
+
+Positive – Indicates the stock is outperforming the market. Similar to “Market Outperform”.
+
+Reduce - Allow traders to execute buy or sell orders which only reduce a current position, as opposed to opening an opposite long or short worth more than the existing value of your assets, letting you trade without the risk of over-exposing your positions.
+
+Sector Outperform - Also known as "moderate buy," "accumulate," and "overweight." Outperform is an analyst recommendation meaning a stock is expected to do slightly better than the market return.
+
+Sector Perform - The stock is expected to perform approximately in line with the average total return of the analyst's coverage universe by sector over the next 12 months.
+
+Sector Underperform - When a stock receives an underperform rating, it means analysts expect this stock to produce worse returns than the overall market, a particular financial index, or other companies in the same industry.
+
+Sector weight – Number of stocks in the assigned sector. I have no idea what this means in terms of buying and selling. My guess is similar to “neutral”, but I have no idea.
+
+Sell – Sell some of the stock.
+
+Strong Buy – Buy a lot of the stock.
+
+Strong Sell – Sell a lot of your stock.
+
+Top Pick – Doesn’t appear to be an official term. Just watch this stock and see why investors really like it. Maybe it is performing well.
+
+Underperform - A recommendation that means a stock is expected to do slightly worse than the overall stock market return. Underperform can also be expressed as "moderate sell," "weak hold," and "underweight.
+
+Underweight - An equity analyst believes the company's stock price will not perform as well as the benchmark index being used for comparison. In other words, an underweight stock rating means it will generate a below-average return compared to the benchmark.
+
+
+
+
+
+
+
+
